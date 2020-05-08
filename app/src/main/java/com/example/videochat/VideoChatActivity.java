@@ -37,7 +37,7 @@ public class VideoChatActivity extends AppCompatActivity
         implements com.opentok.android.Session.SessionListener, PublisherKit.PublisherListener
 {
 
-    private static String API_Key = "46725442";
+    private static String API_Key = "API_KEY";
     private static String SESSION_ID = "1_MX40NjcyNTQ0Mn5-MTU4ODg3MDAwMjA5MH5aNkFveGN1b3RObU1udS9RajAzRzc5eTB-fg";
     private static String TOKEN = "T1==cGFydG5lcl9pZD00NjcyNTQ0MiZzaWc9ZWUxOGM3OGZhZjQwZDZkMjc1M2I4YzAxZDNlMDE4ZjNiNDI2MWUxMDpzZXNzaW9uX2lkPTFfTVg0ME5qY3lOVFEwTW41LU1UVTRPRGczTURBd01qQTVNSDVhTmtGdmVHTjFiM1JPYlUxdWRTOVJhakF6UnpjNWVUQi1mZyZjcmVhdGVfdGltZT0xNTg4ODcwMDMwJm5vbmNlPTAuMDUzODk4MzkzNzk0NDExOTcmcm9sZT1wdWJsaXNoZXImZXhwaXJlX3RpbWU9MTU5MTQ2MjAyNyZpbml0aWFsX2xheW91dF9jbGFzc19saXN0PQ==";
     private static final String LOG_TAG = VideoChatActivity.class.getSimpleName();
